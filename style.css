@@ -1,5 +1,6 @@
-
 body {
+  background: url("https://raw.githubusercontent.com/Maximebdb/profil/master/image/fond flou.jpg") no-repeat right center fixed;
+  background-size: cover;
   background-color: rgb(179,180,181);
   font-family: 'Roboto', Helvetica, sans-serif;
   text-align: center;
